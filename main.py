@@ -20,7 +20,14 @@ class MainFrame(Frame):
         self.bar = Frame(self.frame, width=1, height=5)
         self.bar.pack(fill='both', padx=5, pady=5, expand=True)
 
+        def click(event):
+            self.e.config(state='normal')
+            self.e.delete(0, END)
+
         self.e = Entry(self.bar)
+        self.e.insert(0, 'Enter a Time')
+        self.e.config(state=DISABLED)
+        self.e.bind("<Button-1>",click)
         self.e.pack(pady=5)
 
         pilihan = [
