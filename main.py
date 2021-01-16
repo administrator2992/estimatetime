@@ -3,7 +3,6 @@ from tkinter.font import *
 from package import *
 from tkinter import messagebox
 from tkinter.ttk import Frame
-from tkinter.ttk import Style
 
 class MainFrame(Frame):
 
