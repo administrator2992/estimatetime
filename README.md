@@ -2,7 +2,7 @@
 Python GUI App tkinter project for Final Exam
 | Universitas AMIKOM Yogyakarta Indonesia
 
-Manual Interaction
+Guidance Notes
 ------------------
 ![alt text](https://github.com/administrator2992/timeestimation/blob/main/img/image.png?raw=true)
 
