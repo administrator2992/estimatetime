@@ -12,11 +12,10 @@ Manual Interaction
 4. Clear output with clear button
 
 NOTE FOR FORMAT OUTPUT :
-
-y = year
-m = month
-w = week
-d = day
-h = hour
-m = minute
-s = second
+- y = year 
+- m = month
+- w = week
+- d = day
+- h = hour
+- m = minute
+- s = second
