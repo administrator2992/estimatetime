@@ -14,15 +14,9 @@ Manual Interaction
 NOTE FOR FORMAT OUTPUT :
 
 y = year
-
 m = month
-
 w = week
-
 d = day
-
 h = hour
-
 m = minute
-
 s = second
